@@ -1,3 +1,3 @@
 # GitLab1-
 Overview of Git/GitHub
-Let it be!
+Let it be good!
